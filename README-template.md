@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andr-ch/stats-preview-card-component-main.git](https://github.com/andr-ch/stats-preview-card-component-main.git)
-- Live Site URL: [https://andr-ch.github.io/stats-preview-card-component-main/](https://andr-ch.github.io/stats-preview-card-component-main/)
+- Solution URL: [https://github.com/npc-makinika/stats-preview-card-component-main.git](https://github.com/npc-makinika/stats-preview-card-component-main.git)
+- Live Site URL: [ https://npc-makinika.github.io/stats-preview-card-component-main/]( https://npc-makinika.github.io/stats-preview-card-component-main/)
 
 
 ## My process
